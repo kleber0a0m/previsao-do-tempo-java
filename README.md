@@ -1,4 +1,4 @@
-## Previsão do Tempo por cidades do Brasil.
+## Previsão do Tempo.
 
 Olá e bem-vindo ao repositório de uma aplicação desenvolvida em Java que utiliza a [API do CPTEC/INPE](http://servicos.cptec.inpe.br/XML/) (Centro de Previsão de Tempo e Estudos Climáticos do Instituto Nacional de Pesquisas Espaciais) para obter dados meteorológicos de uma determinada cidade por um período de 6 dias.
 
