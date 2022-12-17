@@ -9,8 +9,9 @@ Para utilizar a aplicação, basta seguir os seguintes passos:
 1.  Abra a pasta onde o arquivo foi descompactado.
 2.  Execute o arquivo "Previsão do Tempo.jar".
 3.  No campo "Busque por uma cidade", insira o nome da cidade desejada.
-4.  Se existir mais de uma cidade com o mesmo nome, selecione a correta na lista de opções.
-5.  Clique em "Buscar" e aguarde o resultado.
+4.  Clique em "Buscar" e aguarde o resultado.
+5.  Se existir mais de uma cidade com o mesmo nome, selecione a correta na lista de opções.
+
 
 Por favor, tenha em mente que a aplicação pode apresentar problemas ao realizar pesquisas com cidades que possuem caracteres especiais, como ç, é, ã, ó e ú. Neste caso, é recomendado pesquisar pelo nome da cidade sem esses caracteres. A aplicação pode também exibir o nome da cidade com esses caracteres corrompidos.
 
